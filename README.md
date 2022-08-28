@@ -1,9 +1,9 @@
 # React App
-Tutorial for React To run the project:
+#Tutorial for React To run the project:
 
-Clone this repo
-Run npm install
-Run npm start
+#Clone this repo
+#Run npm install
+#Run npm start
 
 Tic-tac-toe game.  
 Lets you play tic-tac-toe, 
